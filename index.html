@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="assets/favicon.ico" rel="shortcut icon" />
+    <link rel="stylesheet" href="css/owfont-regular.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/style-todo.css" />
+    <script src="dist/main.js" defer></script>
+    <title>momentum</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="todo-cont">
+        <div class="todo-top">
+          <h3 class="todo-name">ToDo List</h3>
+          <button class="todo-close">Close</button>
+        </div>
+        <div class="todo-wrap">
+          <div class="header-todo">
+            <form class="todo-control">
+              <label><input class="header-input" type="text" placeholder="Какие задачи?" /></label>
+              <button class="header-button" id="add"></button>
+            </form>
+          </div>
+          <div class="todo-container">
+            <ul class="todo todo-list" id="todo"></ul>
+            <ul class="todo todo-completed" id="completed"></ul>
+          </div>
+        </div>
+      </div>
+      <div class="player">
+        <div class="player-controls">
+          <button class="play-prev player-icon"></button>
+          <button class="play player-icon"></button>
+          <button class="play-next player-icon"></button>
+        </div>
+        <div class="ranges">
+          <h2 class="name-music">Name</h2>
+          <h3>
+            <span class="current-minutes">00</span><span>:</span><span class="current-seconds">00</span> <span>/</span>
+            <span class="duration">00:00</span>
+          </h3>
+          <input type="range" class="range-progress" />
+          <div class="volume-wrap">
+            <img src="assets/svg/Frame.svg" alt="volume" class="volume-svg" />
+            <h3><span class="volume">100</span> <span>%</span></h3>
+          </div>
+          <input type="range" class="range-volume" />
+        </div>
+        <ul class="play-list">
+          <!--  -->
+          <li><button class="play player-icon play-small play-small-one"></button><span class="li-one"></span></li>
+          <li><button class="play player-icon play-small play-small-two"></button><span class="li-two"></span></li>
+          <li><button class="play player-icon play-small play-small-three"></button><span class="li-three"></span></li>
+          <li><button class="play player-icon play-small play-small-four"></button><span class="li-four"></span></li>
+        </ul>
+      </div>
+      <div class="weather">
+        <input type="text" class="city" />
+        <i class="weather-icon owf"></i>
+        <div class="weather-error"></div>
+        <div class="description-container">
+          <span class="temperature"></span>
+          <span class="weather-description"></span>
+        </div>
+        <div class="wind"></div>
+        <div class="humidity"></div>
+      </div>
+    </header>
+    <main class="main">
+      <div class="slider-icons">
+        <button class="slide-prev slider-icon"></button>
+        <button class="slide-next slider-icon"></button>
+      </div>
+      <div class="one">
+        <time class="time"></time>
+        <date class="date"></date>
+        <div class="greeting-container">
+          <span class="greeting"></span>
+          <input type="text" class="name" />
+        </div>
+      </div>
+      <div class="two none">
+        <time class="time-one"></time>
+        <date class="date-one"></date>
+        <div class="greeting-container">
+          <span class="greeting greeting-one"></span>
+          <input type="text" class="name name-one" />
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+      <button class="change-quote"></button>
+      <div>
+        <div class="quote"></div>
+        <div class="author"></div>
+      </div>
+      <button class="todo-show">ToDo List</button>
+      <button class="options-show">Options</button>
+      <div class="options">
+        <button class="options-close">Close</button>
+        <div class="blocks">
+          <div class="languages">
+            <h3 class="options-name options-name-lang">language</h3>
+            <button class="btn languages-en">English</button>
+            <button class="btn languages-ru">Russian</button>
+          </div>
+          <div class="bg">
+            <h3 class="options-name options-name-bg">Background API</h3>
+            <button class="btn bg-git">GitHub</button>
+            <button class="btn bg-unsplash">Unsplash API</button>
+            <button class="btn bg-flickr">Flickr API</button>
+          </div>
+          <div class="display">
+            <h3 class="options-name options-name-display">Hide block</h3>
+            <button class="btn clock">Clock and calendar</button>
+            <button class="btn welcome">Welcome</button>
+            <button class="btn weather-widget">Weather widget</button>
+            <button class="btn quote-day">Quote of the day widget</button>
+            <button class="btn audio">Audio player</button>
+          </div>
+        </div>
+      </div>
+      <div class="footer-breadcrumb">
+        <img class="footer-img" src="img/rs_school_js.svg" alt="" />
+        <span>2021, </span>
+        <a class="footer-link" href="https://github.com/Yauheny-Bychkou"> Yauheny-Bychkou </a>
+        <span>, </span>
+        <a class="footer-link" href="https://rs.school/js/"> RS School </a>
+      </div>
+    </footer>
+  </body>
+</html>

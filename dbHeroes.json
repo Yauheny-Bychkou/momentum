@@ -1,0 +1,202 @@
+[
+  {
+    "lang": "en",
+    "name": "Mark Twain",
+    "quote": "It's easy to quit smoking. I've done it hundreds of times."
+  },
+  {
+    "lang": "en",
+    "name": "Thomas A. Edison",
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up."
+  },
+  {
+    "lang": "en",
+    "name": "Sigmund Freud",
+    "quote": "When inspiration does not come to me, I go halfway to meet it. Sigmund Freud"
+  },
+  {
+    "lang": "en",
+    "name": "Albert Einstein",
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+  },
+  {
+    "lang": "en",
+    "name": "Oscar Wilde",
+    "quote": "Illusion is the first of all pleasures."
+  },
+  {
+    "lang": "en",
+    "name": "Marva Collins",
+    "quote": "Success doesn't come to you…you go to it."
+  },
+  {
+    "lang": "en",
+    "name": "Max Handel",
+    "quote": "Music is the soul of language."
+  },
+  {
+    "lang": "en",
+    "name": "Napoleon Hill",
+    "quote": "What the human mind can comprehend and what it can believe, it can achieve"
+  },
+  {
+    "lang": "en",
+    "name": "Florence Nightingale",
+    "quote": "I owe my success to the fact that I never made excuses and did not accept excuses from others."
+  },
+  {
+    "lang": "en",
+    "name": "Amelia Earhart",
+    "quote": "The hardest thing is to start acting, everything else depends only on perseverance."
+  },
+  {
+    "lang": "en",
+    "name": "Fedor Dostoevsky",
+    "quote": "One must love life more than the meaning of life."
+  },
+  {
+    "lang": "en",
+    "name": "John Lennon",
+    "quote": "Life is what happens to you while you make plans."
+  },
+  {
+    "lang": "en",
+    "name": "Boris Strugatsky",
+    "quote": "It is always worth starting with something that sows doubts."
+  },
+  {
+    "lang": "en",
+    "name": "Fazil Iskander",
+    "quote": "Real responsibility is only personal."
+  },
+  {
+    "lang": "en",
+    "name": "Woody Allen",
+    "quote": "80% of success is to appear in the right place at the right time."
+  },
+  {
+    "lang": "en",
+    "name": "Steve Jobs",
+    "quote": "Your time is limited, don't waste it living someone else's life"
+  },
+  {
+    "lang": "en",
+    "name": "Immanuel Kant",
+    "quote": "Science is organized knowledge, wisdom is organized life."
+  },
+  {
+    "lang": "en",
+    "name": "Christopher Columbus",
+    "quote": "You will never cross the ocean unless you have the courage to lose sight of the shore."
+  },
+  {
+    "lang": "en",
+    "name": "Mahatma Gandhi",
+    "quote": "Freedom is worthless if it does not include the freedom to make mistakes."
+  },
+  {
+    "lang": "en",
+    "name": "Henry Ford",
+    "quote": "If you think you are capable of anything, you are right; if you think that you will not succeed, you are also right."
+  },
+  {
+    "lang": "ru",
+    "name": "Марк Твен",
+    "quote": "Бросить курить легко. Я делал это сотни раз."
+  },
+  {
+    "lang": "ru",
+    "name": "Томас А. Эдисон",
+    "quote": "Многие из жизненных неудач - это люди, которые не осознавали, насколько они были близки к успеху, когда сдались."
+  },
+  {
+    "lang": "ru",
+    "name": "Зигмунд Фрейд",
+    "quote": "Когда вдохновение не приходит ко мне, я иду ему навстречу на полпути. Зигмунд Фрейд"
+  },
+  {
+    "lang": "ru",
+    "name": "Альберт Эйнштейн",
+    "quote": "Две вещи бесконечны: вселенная и человеческая глупость; и я не уверен насчет вселенной."
+  },
+  {
+    "lang": "ru",
+    "name": "Оскар Уайльд",
+    "quote": "Иллюзия - это первое из всех удовольствий."
+  },
+  {
+    "lang": "ru",
+    "name": "Марва Коллинз",
+    "quote": "Успех не приходит к тебе…ты пойдешь к нему."
+  },
+  {
+    "lang": "ru",
+    "name": "Макс Гендель",
+    "quote": "Музыка - душа языка."
+  },
+  {
+    "lang": "ru",
+    "name": "Наполеон Хилл",
+    "quote": "То, что человеческий разум может постичь и во что он может поверить, он может достичь"
+  },
+  {
+    "lang": "ru",
+    "name": "Флоренс Найтингейл",
+    "quote": "Своим успехом я обязана тому факту, что никогда не оправдывалась и не принимала оправданий от других."
+  },
+  {
+    "lang": "ru",
+    "name": "Амелия Эрхарт",
+    "quote": "Самое сложное - начать действовать, все остальное зависит только от настойчивости."
+  },
+  {
+    "lang": "ru",
+    "name": "Федор Достоевский",
+    "quote": "Нужно любить жизнь больше, чем смысл жизни."
+  },
+  {
+    "lang": "ru",
+    "name": "Джон Леннон",
+    "quote": "Жизнь - это то, что происходит с тобой, пока ты строишь планы."
+  },
+  {
+    "lang": "ru",
+    "name": "Борис Стругацкий",
+    "quote": "Всегда стоит начинать с того, что сеет сомнения."
+  },
+  {
+    "lang": "ru",
+    "name": "Фазиль Искандер",
+    "quote": "Настоящая ответственность только личная."
+  },
+  {
+    "lang": "ru",
+    "name": "Вуди Аллен",
+    "quote": "80 % успеха - появиться в нужном месте в нужное время."
+  },
+  {
+    "lang": "ru",
+    "name": "Стив Джобс",
+    "quote": "Ваше время ограничено, не тратьте его впустую, живя чужой жизнью"
+  },
+  {
+    "lang": "ru",
+    "name": "Иммануил Кант",
+    "quote": "Наука - это организованное знание, мудрость - это организованная жизнь."
+  },
+  {
+    "lang": "ru",
+    "name": "Христофор Колумб",
+    "quote": "Вы никогда не пересечете океан, если у вас не хватит смелости потерять из виду берег."
+  },
+  {
+    "lang": "ru",
+    "name": "Махатма Ганди",
+    "quote": "Свобода ничего не стоит, если она не включает свободу совершать ошибки."
+  },
+  {
+    "lang": "ru",
+    "name": "Генри Форд",
+    "quote": "Если вы думаете, что способны на что-либо, вы правы; если вы думаете, что у вас ничего не получится, вы тоже правы."
+  }
+]

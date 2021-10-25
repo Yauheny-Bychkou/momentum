@@ -1,0 +1,24 @@
+{
+  "name": "yauheny-bychkou-JSFE2021Q3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/yauheny-bychkou-JSFE2021Q3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/yauheny-bychkou-JSFE2021Q3/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/yauheny-bychkou-JSFE2021Q3#readme",
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.1"
+  }
+}
