@@ -48,6 +48,7 @@ li:last-child {
   border-radius: 15px;
   overflow: hidden;
   display: none;
+  z-index: 99;
 }
 .todo-wrap {
   position: relative;
@@ -218,6 +219,7 @@ li:last-child {
 }
 .player {
   opacity: 1;
+  z-index: 10;
 }
 .main {
   position: relative;
